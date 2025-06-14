@@ -44,7 +44,7 @@
     font-size: 16px;
     font-weight: bold;
     color: #fff;
-    background-color: #007bff;
+    background-color: #7700ff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -52,7 +52,7 @@
 }
 
 .button_join:hover{
-    background-color: #2272c9;
+    background-color: #db0000;
     transition: 0.2s ease-in-out;
 }
 
